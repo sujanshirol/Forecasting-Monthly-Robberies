@@ -31,5 +31,5 @@ Critical Values:<br>
 	5%: -2.89316<br>
 	10%: -2.58364<br>
   
-##Forecasting
+## Forecasting
 ![image](https://user-images.githubusercontent.com/71747522/117823901-9a11fb00-b28b-11eb-997f-a1b135cf13c6.png)
