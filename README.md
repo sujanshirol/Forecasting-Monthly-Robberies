@@ -15,8 +15,15 @@ Several methods and techniques of time series forecasting are used to forecast w
 9. Building ARIMA model
 10. Hyperparameter tuning
 11. Rolling forecasting to capture random variation
-12. Validation
-13. Forecasting for next 1 year
+12. Exponential Smoothning
+13. Validation
+14. Forecasting for next 1 year
+
+## Evaluation metric
+Mertic will be Root Mean Sqaure Error(RMSE) and Mean Absolute Percentage Error(MAPE). Although, we will be looking at both metrics the main goal will be to get the MAPE below 10%.
+
+![image](https://user-images.githubusercontent.com/71747522/117994560-445a5300-b35e-11eb-91c6-dc12fe990e99.png)
+
 
 ## Trend in series
 ![image](https://user-images.githubusercontent.com/71747522/117823692-60d98b00-b28b-11eb-88ca-d63fa1de38d0.png)
