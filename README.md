@@ -44,6 +44,7 @@ Critical Values:<br>
 ## Conclusion
 **It is forecasted that armed robberies are going to be increased in the next one year. Government and police has to take measure accordingly by imposing strict measures and deploying more man-force for patrolling**\
 
-![image](https://user-images.githubusercontent.com/71747522/117824112-d180a780-b28b-11eb-9aa2-4a1fb0130346.png)
+![image](https://user-images.githubusercontent.com/71747522/117994958-8daaa280-b35e-11eb-984b-e26d639d7d7b.png)
+
 
 
